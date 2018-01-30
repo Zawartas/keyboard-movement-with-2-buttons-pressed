@@ -1,2 +1,3 @@
-# push_two_buttons_and_know
-Console program that detects two buttons pressed at one time.
+# keyboard-movement-with-2-buttons-pressed
+Console program that detects keyboard arrow strokes BUT also detects when two buttons are pressed. For example Up and Right gives Up_Right. 
+Program uses simple threads management.
